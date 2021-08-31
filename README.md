@@ -68,7 +68,7 @@ Criar um Redux:
 - Simplifica problemas de data-flow complexos
 - Pontos únicos de controle de estado
 
-## Contras
+### Contras
 - Complica problemas de data-flow simples
 
 ## Conclusão
