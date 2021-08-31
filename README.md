@@ -24,3 +24,19 @@
 
 ## Arquitetura Redux
 ![redux](https://user-images.githubusercontent.com/72028645/131546580-7da502a9-ecbb-4d43-9ff1-62cef74eb708.jpg)
+
+## Os três princípios
+- Uma única fonte de verdade
+- Estado disponível apenas para leitura
+- Mudanças no estado são feitas apenas por funções puras
+- Store: `createStore()`
+- Reducer: `store.getState()`
+- Actions: `store.dispatch()`
+- View: `connect (react-redux)`
+- Selectors
+
+## Middlewares
+- Faz a [interação](https://redux.js.org/understanding/history-and-design/middleware) com a store de uma forma que não é através da aplicação
+
+## Enhanced Stores
+- É uma [função](https://chariotsolutions.com/blog/post/redux-middleware-and-enhancers-getting-redux-to-log-debug-and-process-async-work/) que cria uma nova store caso precise mudar o estado ou como a store vai se comportar 
