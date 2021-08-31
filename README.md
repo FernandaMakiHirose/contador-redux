@@ -45,7 +45,7 @@
 NPM:
 >npm install @reduxjs/toolkit
 
-Yarn:
+YARN:
 >yarn add @reduxjs/toolkit
 
 Criar um Redux:
@@ -77,3 +77,10 @@ Criar um Redux:
 - State containers resolvem problemas não triviais 
 - Flexível para resolver vários problemas, mas talvez não o seu
 - Propósito do Redux é muito diferente do React, e pode ser usado em outras soluções
+
+## Redux Devtools
+NPM:
+>npm install --save redux-devtools-extension
+
+YARN:
+>yarn add redux-devtools-extension
