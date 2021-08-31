@@ -1,4 +1,11 @@
 # Contador criado com o Redux
+## Comandos
+Logo em seguida:
+>npm install react-scripts --save
+
+Para abrir o programa:
+>npm start
+
 ## Pré-requisitos
 - Conhecimentos em React.js e JavaScript
 - Configuração do node, npm e yarn
