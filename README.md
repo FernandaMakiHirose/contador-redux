@@ -40,3 +40,40 @@
 
 ## Enhanced Stores
 - É uma [função](https://chariotsolutions.com/blog/post/redux-middleware-and-enhancers-getting-redux-to-log-debug-and-process-async-work/) que cria uma nova store caso precise mudar o estado ou como a store vai se comportar 
+
+## @reduxjs/toolkit
+NPM:
+>npm install @reduxjs/toolkit
+
+Yarn:
+>yarn add @reduxjs/toolkit
+
+Criar um Redux:
+>npx create-react-app my-app --template redux
+
+- configureStore (redux-thunk + Redux DevTools Extension)
+- createReducer (immer.js)
+- createAction
+- createSlice (reducers + actions)
+- createSelector (reselect)
+
+## Alternativas de state containers
+- Context API (React)
+- Recoil (FB)
+- MobX (redux-saga, RxJS)
+- XState
+
+## Prós e contras de state containers
+### Prós
+- Simplifica problemas de data-flow complexos
+- Pontos únicos de controle de estado
+
+## Contras
+- Complica problemas de data-flow simples
+
+## Conclusão
+- Super poderoso, mas pode ser custoso
+- Super extensível, mas precisa de clareza
+- State containers resolvem problemas não triviais 
+- Flexível para resolver vários problemas, mas talvez não o seu
+- Propósito do Redux é muito diferente do React, e pode ser usado em outras soluções
