@@ -19,5 +19,7 @@
 - Operações Determinísticas
 - Controlar side-effects (quando não se pode evitá-los)
 
+## Arquitetura Flux
 ![flux](https://user-images.githubusercontent.com/72028645/131545549-f1bc42b0-a011-450d-9f89-8903b9bfdcaa.png)
 
+## Arquitetura Redux
