@@ -18,3 +18,5 @@
 - API declarativa
 - Operações Determinísticas
 - Controlar side-effects (quando não se pode evitá-los)
+
+![flux](https://user-images.githubusercontent.com/72028645/131545354-ba74436f-ebc6-4639-8e43-347ebda1ab25.png)
