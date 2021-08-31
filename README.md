@@ -97,3 +97,34 @@ YARN:
 - [Ducks Pattern](https://medium.com/@matthew.holman/what-is-redux-ducks-46bcb1ad04b7)
 - [Higher-Order Reducers](https://www.digitalocean.com/community/tutorials/redux-higher-order-reducers)
 - [Hooks](https://react-redux.js.org/api/hooks)
+
+## Quiz
+### O que é um State Container?
+Blocos (container) da sua aplicação que armazena um estado de forma centralizada, que pode ser lido por outros blocos da aplicação.
+
+### Sabemos que o Redux foi inspirado tanto em Flux quanto em Elm. Tendo em vista essa informação, quais foram as influências da linguagem Elm sobre o Redux?
+Imutabilidade, API declarativa, operações determinísticas, controlar side-effects (quando não se pode evita-los).
+
+### Quais são as principais características do Redux?
+Previsível, centralizado, debugavel e flexível.
+
+### Quais os prós da criação de State Containers?
+Simplifica problemas de data-flow complexos e pontos únicos de controle de estado.
+
+### Quais os 3 princípios da arquitetura Redux?
+Uma única fonte de verdade, estado disponível apenas para leitura e mudanças no estado são feitas apenas por funções puras.
+
+### O que é o Redux?
+Um State Container para armazenar os estados das aplicações JavaScript ou outras linguagens.
+
+### O que é o React?
+Uma biblioteca JavaScript para construir interfaces Web.
+
+### Qual foi a principal influência da arquitetura Flux para o Redux?
+Aprimorou um fluxo direcional para as ações, diminuindo a complexidade assim evitando perca de dados e gargalos durante as aplicações.
+
+### O que são os middlewares?
+Funções que são capazes de conectar outras funções, por exemplo um software é capaz de criar mais facilmente e eficientemente a conexão entre aplicações, dados e usuários.
+
+### Quais os pilares do React?
+Ser declarativo e baseado em componentes. Com isso, uma vez que o componente é definido/registrado, ele pode ser usado em qualquer lugar do projeto.
