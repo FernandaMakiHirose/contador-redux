@@ -85,8 +85,6 @@ NPM:
 YARN:
 >yarn add redux-devtools-extension
 
-![devtools](https://user-images.githubusercontent.com/72028645/131551400-31ced853-e00b-4444-8d01-71bec9f32a00.png)
-
 ## Guias
 - [Style Guide](https://redux.js.org/style-guide/style-guide/)
 - [Ducks Pattern](https://medium.com/@matthew.holman/what-is-redux-ducks-46bcb1ad04b7)
