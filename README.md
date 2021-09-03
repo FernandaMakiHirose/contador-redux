@@ -10,6 +10,9 @@ Para abrir o programa:
 - Conhecimentos em React.js e JavaScript
 - Configuração do node, npm e yarn
 
+## Licença
+Distribuido sob a licença MIT License. Veja `LICENSE` para mais informações.
+
 ## React 
 - É uma biblioteca para criar interfaces
 - Declarativo
