@@ -1,7 +1,7 @@
 # Contador criado com o Redux
-## Comandos
-Logo em seguida:
->npm install react-scripts --save
+## Executar o programa
+Vá no path `\contador-redux\exemplo1` ou `\contador-redux\exemplo2`:
+>npm install
 
 Para abrir o programa:
 >npm start
