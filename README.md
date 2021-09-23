@@ -7,6 +7,7 @@ Para abrir o programa:
 >npm start
 
 ## Projeto do exemplo 1
+![ex1](https://user-images.githubusercontent.com/72028645/134559458-3de7f96e-006a-4a62-adab-477af9fde2e7.PNG)
 
 ## Requisitos
 - Conhecimentos em React.js e JavaScript
