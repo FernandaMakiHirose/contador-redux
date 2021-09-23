@@ -6,6 +6,8 @@ Vá no path `\contador-redux\exemplo1` ou `\contador-redux\exemplo2`:
 Para abrir o programa:
 >npm start
 
+## Projeto do exemplo 1
+
 ## Requisitos
 - Conhecimentos em React.js e JavaScript
 - Configuração do node, npm e yarn
